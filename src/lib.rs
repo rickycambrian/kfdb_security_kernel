@@ -30,6 +30,9 @@ pub mod sign_to_derive;
 pub mod trust_state;
 pub mod wire_format;
 
+/// Version of this crate (from Cargo.toml).
+pub const VERSION: &str = env!("CARGO_PKG_VERSION");
+
 // Re-export primary types for convenience
 pub use encryption::{decrypt_bytes, encrypt_bytes, EncryptionError};
 pub use key_hierarchy::KeyHierarchy;
