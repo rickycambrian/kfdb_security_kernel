@@ -1,0 +1,22 @@
+[package]
+name = "kfdb-security-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "Public auditable security kernel for KFDB — AES-256-GCM encryption, HKDF key hierarchy, sign-to-derive, and TEE trust state"
+license-file = "LICENSE"
+repository = "https://github.com/rickycambrian/kfdb_security_kernel"
+keywords = ["encryption", "aes-gcm", "hkdf", "tee", "zero-knowledge"]
+categories = ["cryptography", "security"]
+
+[dependencies]
+aes-gcm = "0.10"
+sha2 = "0.10"
+hkdf = "0.12"
+hmac = "0.12"
+zeroize = { version = "1.7", features = ["derive"] }
+base64 = "0.21"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[dev-dependencies]
+# No additional dev deps needed

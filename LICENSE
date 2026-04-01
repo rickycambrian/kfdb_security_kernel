@@ -1,0 +1,61 @@
+# Confluent Software License 1.0
+
+## IMPORTANT - PLEASE READ THIS LICENSE CAREFULLY
+
+This software is provided under the Confluent Software License 1.0. By using, copying, or distributing this software, you agree to be bound by all of the terms and conditions below.
+
+## 1. Definitions
+
+**"Licensor"** means Rickydata and its suppliers.
+
+**"Software"** means the software, including source code, object code, and documentation, provided by Licensor under this License.
+
+**"You"** means the individual or entity exercising rights under this License.
+
+## 2. License Grant
+
+Subject to Your compliance with the terms and conditions of this License, Licensor grants You a non-exclusive, non-transferable, royalty-free, worldwide license to:
+
+(a) Use, copy, and display the Software for Your internal business purposes;
+
+(b) Use, copy, and display the Software for non-commercial purposes, including academic research and educational purposes;
+
+(c) Audit and verify the Software's security properties and correctness.
+
+## 3. Restrictions
+
+You may NOT:
+
+(a) Use the Software to provide a service to third parties (whether commercial or non-commercial);
+
+(b) Offer the Software as a standalone product or service to any third party;
+
+(c) Fork, modify, or create derivative works of the Software;
+
+(d) Redistribute, sublicense, sell, or otherwise transfer the Software to any third party;
+
+(e) Use the Software for any commercial purpose other than Your internal business purposes.
+
+## 4. Intellectual Property
+
+The Software is proprietary to Licensor. All right, title, and interest in and to the Software, including all intellectual property rights therein, are and shall remain the exclusive property of Licensor. This License does not grant You any rights to Licensor's patents, trademarks, or copyrights, except as expressly provided herein.
+
+## 5. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+
+## 6. Limitation of Liability
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+## 7. Termination
+
+This License is effective until terminated. It will terminate automatically if You fail to comply with any term or condition of this License. Upon termination, You must destroy all copies of the Software in Your possession.
+
+## 8. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+## 9. Contact
+
+For questions about this License: https://x.com/rickydata42
